@@ -1,0 +1,1 @@
+loadstring(game:HttpsGet"https://raw.githubusercontent.com/RawLunaHub/while/main/newfile.lua")()
